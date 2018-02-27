@@ -1,3 +1,12 @@
+## Información personal
+
+Hola!
+
+Mi nombre es Santiago A. Soriano García y este es mi GitHub Page. Soy estudiante de Ingenieria Informática en la Universidad de Almeria. El enlace web de la universidad es: www.ual.es
+
+Esto se ha creado para la realización de las prácticas de la asignatura Herramientas Y Métodos de Ingeniería del Software Para más informacion podeis contactar conmigo a través del correo ssg127@inlumine.ual.es
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/ssg127/ssg127.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
