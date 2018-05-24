@@ -7,40 +7,29 @@ Mi nombre es Santiago A. Soriano García y este es mi GitHub Page. Soy estudiant
 Esto se ha creado para la realización de las prácticas de la asignatura Herramientas Y Métodos de Ingeniería del Software Para más informacion podeis contactar conmigo a través del correo ssg127@inlumine.ual.es
 
 
-## Welcome to GitHub Pages
+## Sesión 01
 
-You can use the [editor on GitHub](https://github.com/ssg127/ssg127.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Página en github: (https://ssg127.github.io/)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Sesión 02
 
-### Markdown
+Nombre de la Linux Virtual Machine en Azure: ssg127-hms18-v2
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+DNS de la máquina: http://ssg127-hms18-v2.eastus.cloudapp.azure.com/
 
-```markdown
-Syntax highlighted code block
+## Sesión 03
 
-# Header 1
-## Header 2
-### Header 3
+DNS de la máquina con GitLab: http://rl888-hms18-vm1.eastus.cloudapp.azure.com
 
-- Bulleted
-- List
+Nombre del repositorio GitLab con ejercicios: ssg127-hmis-sesion03
 
-1. Numbered
-2. List
+DNS de la máquina con Jenkins: http://ssg127-hms18-v2.eastus.cloudapp.azure.com/
 
-**Bold** and _Italic_ and `Code` text
+## Sesión 04
 
-[Link](url) and ![Image](src)
-```
+URL de la página de equipo: http://corei7-hmis-18-vm3.eastus.cloudapp.azure.com
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Repositorio GitHub de la página de equipo: https://github.com/RazvanAndreiLismanu/hmis_sesion04
 
-### Jekyll Themes
+Repositorio forkeado de la página de equipo: https://github.com/ssg127/hmis_sesion04
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ssg127/ssg127.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
